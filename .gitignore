@@ -1,0 +1,8 @@
+/dist/
+
+*.class
+*.jar
+*.rar
+*.tar
+*.zip
+*.sql
